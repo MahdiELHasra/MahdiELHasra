@@ -9,7 +9,7 @@
 
 Passionate Front-End Web Developer adept in JavaScript, TypeScript, Python, React/Next.js, MongoDB, MySQL, and assorted technologies. Proficient in surmounting challenges and presenting innovative solutions.
 
-### Discussing personal matters:
+### Talking about Personal Stuffs:
 
 - 📫 How to contact me: <a href="mailto:Mahdi.elhasra@gmail.com">Mahdi.elhasra@gmail.com</a>
 - 🚀 Explore my most <a href='https://jotion-x.vercel.app/' target="_blank">Recent project</a>
