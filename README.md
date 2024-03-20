@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm <a href="https://www.linkedin.com/in/mahdi-elhasra/" target="_blank">Mahdi EL Hasra</a>
+<!-- ### 👋 Hi there, I'm <a href="https://www.linkedin.com/in/mahdi-elhasra/" target="_blank">Mahdi EL Hasra</a>
 
 ![Banner](./banner.png)
 <a target="_blank" href="https://twitter.com/Mahdi_ELHasra" target="_blank"><img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FMahdi_ELHasra&style=for-the-badge&logo=x&logoColor=White&label=Mahdi%20EL%20Hasra&labelColor=black&color=black">
@@ -14,9 +14,9 @@ Passionate Front-End Web Developer adept in JavaScript, TypeScript, Python, Reac
 - 📫 How to contact me: <a href="mailto:Mahdi.elhasra@gmail.com">Mahdi.elhasra@gmail.com</a>
 - 🚀 Explore my most <a href='https://jotion-x.vercel.app/' target="_blank">Recent project</a>
 <!-- - 📝 <a href='https://myresume.so' target="_blank">Resume</a> -->
-
+<!--
 ### Technologies & Tools:
-
+<!--
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -36,4 +36,28 @@ Passionate Front-End Web Developer adept in JavaScript, TypeScript, Python, Reac
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) -->
+
+# Hi! My name is Mahdi EL Hasra 😄
+
+🌍  I am an Aspiring Developer based in Sale, Morocco.
+<br/>
+
+### Skills
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) -->
+
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=python,php)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+
+### Socials
+
+<div id="badges">
+  <a target="_blank" href="https://www.linkedin.com/in/mahdi-elhasra/" target="_blank"><img alt="X (formerly LinkedIn) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmahdi-elhasra%2F&style=for-the-badge&logo=linkedin&logoColor=White&label=Mahdi%20EL%20Hasra&labelColor=0077b5&color=0077b5">
+</a>
+<a target="_blank" href="https://twitter.com/Mahdi_ELHasra" target="_blank"><img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FMahdi_ELHasra&style=for-the-badge&logo=x&logoColor=White&label=Mahdi%20EL%20Hasra&labelColor=black&color=black">
+</a>
+  </a>
+</div>
