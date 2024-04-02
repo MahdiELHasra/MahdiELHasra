@@ -40,7 +40,7 @@ Passionate Front-End Web Developer adept in JavaScript, TypeScript, Python, Reac
 
 # Hi! My name is Mahdi EL Hasra 😄
 
-🌍  I am an Aspiring Developer based in Sale, Morocco.
+🌍  I am an Prospective Developer based in Sale, Morocco.
 <br/>
 
 ### Skills
