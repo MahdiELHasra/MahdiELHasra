@@ -38,7 +38,7 @@ Passionate Front-End Web Developer adept in JavaScript, TypeScript, Python, Reac
 ![](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) -->
 
-# Hi! My name is Mahdi EL Hasra 😄
+# Hi! My name is Mahdi EL Hasra 
 
 🌍  I am a Prospective Developer based in Sale, Morocco.
 <br/>
@@ -48,8 +48,9 @@ Passionate Front-End Web Developer adept in JavaScript, TypeScript, Python, Reac
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) -->
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=python,php)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=git,figma)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=python,)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 
 ### Socials
